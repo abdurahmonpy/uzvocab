@@ -1,0 +1,73 @@
+/*
+  SO'ZLAR BAZASI
+  ---------------------------------------------------------------
+  Yangi so'z qo'shish uchun ro'yxat OXIRIGA yangi qator qo'shing:
+      ["inglizcha so'z", "sinonimlar, vergul bilan", "o'zbekcha tarjima"],
+  Raqamlar (ID) avtomatik beriladi: 1-qator = 1, 2-qator = 2 ...
+  MUHIM: eski so'zlarni o'chirmang va o'rnini almashtirmang — aks holda
+  foydalanuvchining saqlangan natijalari boshqa so'zga o'tib qoladi.
+  Har 10 ta so'z avtomatik "to'plam" bo'lib guruhlanadi.
+*/
+window.WORDS = [
+  ["confronted with", "faced with, exposed to", "duch kelgan, ro'baro' bo'lgan"],
+  ["alarming", "worrying, disturbing", "tashvishga soladigan, xavotirli"],
+  ["equivalent to", "equal to, the same as", "…ga teng, …ga barobar"],
+  ["readily", "easily, without difficulty", "osonlik bilan"],
+  ["vivid", "striking, graphic", "yorqin, kuchli taassurot qoldiradigan"],
+  ["media coverage", "media reporting, press coverage", "mavzuning OAVda yoritilishi"],
+  ["formal tuition", "formal instruction, structured teaching", "rasmiy, tizimli ta'lim"],
+  ["harbor", "hold, maintain", "fikr yoki qarashni ongida saqlamoq"],
+  ["misconception", "mistaken belief, misunderstanding", "noto'g'ri tushuncha"],
+  ["curriculum", "syllabus, course of study", "o'quv dasturi"],
+  ["isolated", "separate, disconnected", "ajralgan, boshqalarga bog'lanmagan"],
+  ["incorporated into", "integrated into, included in", "tarkibiga kiritilgan, qo'shilgan"],
+  ["multifaceted", "many-sided, complex", "ko'p qirrali"],
+  ["conceptual framework", "system of ideas, conceptual structure", "tushunchalar tizimi"],
+  ["component", "constituent, part", "tarkibiy qism"],
+  ["erroneous", "incorrect, mistaken", "xato, noto'g'ri"],
+  ["robust", "strong, firmly established", "mustahkam, barqaror"],
+  ["accessible to modification", "open to change, able to be revised", "o'zgartirish mumkin bo'lgan"],
+  ["absorb", "take in, assimilate", "ma'lumotni qabul qilmoq, o'zlashtirmoq"],
+  ["refine", "improve, clarify", "takomillashtirmoq, aniqlashtirmoq"],
+  ["extensive", "widespread, broad", "keng ko'lamli"],
+  ["destruction", "devastation, ruin", "vayron bo'lish, yo'q qilinish"],
+  ["build upon", "develop further, expand on", "asos qilib olib rivojlantirmoq"],
+  ["displace", "replace, supplant", "o'rnini egallamoq, siqib chiqarmoq"],
+  ["survey", "investigate, examine", "so'rov orqali o'rganmoq, tekshirmoq"],
+  ["attitude", "viewpoint, outlook", "munosabat, qarash"],
+  ["questionnaire", "survey form, question sheet", "so'rovnoma"],
+  ["open-form questions", "open-ended questions, free-response questions", "erkin javob beriladigan savollar"],
+  ["self-evident", "obvious, apparent", "o'z-o'zidan ravshan, ayon"],
+  ["damp", "moist, slightly wet", "nam, zax"],
+  ["Equator", "equatorial line, zero-degree latitude", "ekvator"],
+  ["dominant", "main, prevailing", "ustun, asosiy"],
+  ["habitat", "natural home, living environment", "tabiiy yashash muhiti"],
+  ["indigenous populations", "native peoples, original inhabitants", "tub, mahalliy aholi"],
+  ["consistent with", "in agreement with, in line with", "…ga mos, …bilan muvofiq"],
+  ["conservation", "preservation, protection", "tabiatni asrash, muhofaza qilish"],
+  ["sympathetic to", "caring towards, concerned about", "…ga hamdard, …ga mehr bilan qaraydigan"],
+  ["intrinsic value", "inherent worth, value in itself", "o'ziga xos, o'z-o'zicha mavjud qadr"],
+  ["identify", "recognize, pinpoint", "aniqlamoq, tanib olmoq"],
+  ["logging", "tree felling, timber harvesting", "yog'och uchun daraxt kesish"],
+  ["proportion", "share, fraction", "ulush, nisbat"],
+  ["acid rain", "acidic rainfall, acid precipitation", "kislotali yomg'ir"],
+  ["factor", "cause, contributing element", "omil"],
+  ["embrace", "include, encompass", "o'z ichiga olmoq, qamrab olmoq"],
+  ["atmospheric", "related to the atmosphere, relating to the air", "atmosferaga oid"],
+  ["incompatible with", "inconsistent with, unable to coexist with", "…bilan mos kelmaydigan"],
+  ["majority", "most, greater part", "ko'pchilik, katta qism"],
+  ["contribute to", "help cause, play a part in", "sabab bo'lishga hissa qo'shmoq"],
+  ["predominate", "prevail, dominate", "ustunlik qilmoq"],
+  ["ecosystem", "ecological system, interacting community and environment", "ekotizim"],
+  ["volunteer ideas", "offer ideas freely, suggest without being asked", "so'ralmasdan fikr bildirmoq"],
+  ["appreciate", "recognize, understand fully", "ahamiyatini anglamoq, to'liq tushunmoq"],
+  ["complexity", "intricacy, complicated nature", "murakkablik"],
+  ["a range of", "a variety of, an assortment of", "turli xil, bir qator"],
+  ["drive", "cause, propel", "sabab bo'lmoq, harakatga keltirmoq"],
+  ["acquire", "gain, develop", "egallamoq, orttirmoq"],
+  ["evaluate", "assess, judge", "baholamoq"],
+  ["conflicting views", "opposing opinions, clashing viewpoints", "bir-biriga zid qarashlar"],
+  ["arena", "setting, sphere", "faoliyat maydoni, muhit"],
+  ["essential", "necessary, vital", "zarur, juda muhim"]
+  // ↓ yangi so'zlarni shu yerga qo'shing (oxirgi so'zdan keyin vergul bo'lsin)
+];
