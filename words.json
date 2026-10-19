@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "w": "confronted with",
+    "syn": "faced with, exposed to",
+    "uz": "duch kelgan, ro'baro' bo'lgan"
+  },
+  {
+    "id": 2,
+    "w": "alarming",
+    "syn": "worrying, disturbing",
+    "uz": "tashvishga soladigan, xavotirli"
+  },
+  {
+    "id": 3,
+    "w": "equivalent to",
+    "syn": "equal to, the same as",
+    "uz": "…ga teng, …ga barobar"
+  },
+  {
+    "id": 4,
+    "w": "readily",
+    "syn": "easily, without difficulty",
+    "uz": "osonlik bilan"
+  },
+  {
+    "id": 5,
+    "w": "vivid",
+    "syn": "striking, graphic",
+    "uz": "yorqin, kuchli taassurot qoldiradigan"
+  },
+  {
+    "id": 6,
+    "w": "media coverage",
+    "syn": "media reporting, press coverage",
+    "uz": "mavzuning OAVda yoritilishi"
+  },
+  {
+    "id": 7,
+    "w": "formal tuition",
+    "syn": "formal instruction, structured teaching",
+    "uz": "rasmiy, tizimli ta'lim"
+  },
+  {
+    "id": 8,
+    "w": "harbor",
+    "syn": "hold, maintain",
+    "uz": "fikr yoki qarashni ongida saqlamoq"
+  },
+  {
+    "id": 9,
+    "w": "misconception",
+    "syn": "mistaken belief, misunderstanding",
+    "uz": "noto'g'ri tushuncha"
+  },
+  {
+    "id": 10,
+    "w": "curriculum",
+    "syn": "syllabus, course of study",
+    "uz": "o'quv dasturi"
+  },
+  {
+    "id": 11,
+    "w": "isolated",
+    "syn": "separate, disconnected",
+    "uz": "ajralgan, boshqalarga bog'lanmagan"
+  },
+  {
+    "id": 12,
+    "w": "incorporated into",
+    "syn": "integrated into, included in",
+    "uz": "tarkibiga kiritilgan, qo'shilgan"
+  },
+  {
+    "id": 13,
+    "w": "multifaceted",
+    "syn": "many-sided, complex",
+    "uz": "ko'p qirrali"
+  },
+  {
+    "id": 14,
+    "w": "conceptual framework",
+    "syn": "system of ideas, conceptual structure",
+    "uz": "tushunchalar tizimi"
+  },
+  {
+    "id": 15,
+    "w": "component",
+    "syn": "constituent, part",
+    "uz": "tarkibiy qism"
+  },
+  {
+    "id": 16,
+    "w": "erroneous",
+    "syn": "incorrect, mistaken",
+    "uz": "xato, noto'g'ri"
+  },
+  {
+    "id": 17,
+    "w": "robust",
+    "syn": "strong, firmly established",
+    "uz": "mustahkam, barqaror"
+  },
+  {
+    "id": 18,
+    "w": "accessible to modification",
+    "syn": "open to change, able to be revised",
+    "uz": "o'zgartirish mumkin bo'lgan"
+  },
+  {
+    "id": 19,
+    "w": "absorb",
+    "syn": "take in, assimilate",
+    "uz": "ma'lumotni qabul qilmoq, o'zlashtirmoq"
+  },
+  {
+    "id": 20,
+    "w": "refine",
+    "syn": "improve, clarify",
+    "uz": "takomillashtirmoq, aniqlashtirmoq"
+  },
+  {
+    "id": 21,
+    "w": "extensive",
+    "syn": "widespread, broad",
+    "uz": "keng ko'lamli"
+  },
+  {
+    "id": 22,
+    "w": "destruction",
+    "syn": "devastation, ruin",
+    "uz": "vayron bo'lish, yo'q qilinish"
+  },
+  {
+    "id": 23,
+    "w": "build upon",
+    "syn": "develop further, expand on",
+    "uz": "asos qilib olib rivojlantirmoq"
+  },
+  {
+    "id": 24,
+    "w": "displace",
+    "syn": "replace, supplant",
+    "uz": "o'rnini egallamoq, siqib chiqarmoq"
+  },
+  {
+    "id": 25,
+    "w": "survey",
+    "syn": "investigate, examine",
+    "uz": "so'rov orqali o'rganmoq, tekshirmoq"
+  },
+  {
+    "id": 26,
+    "w": "attitude",
+    "syn": "viewpoint, outlook",
+    "uz": "munosabat, qarash"
+  },
+  {
+    "id": 27,
+    "w": "questionnaire",
+    "syn": "survey form, question sheet",
+    "uz": "so'rovnoma"
+  },
+  {
+    "id": 28,
+    "w": "open-form questions",
+    "syn": "open-ended questions, free-response questions",
+    "uz": "erkin javob beriladigan savollar"
+  },
+  {
+    "id": 29,
+    "w": "self-evident",
+    "syn": "obvious, apparent",
+    "uz": "o'z-o'zidan ravshan, ayon"
+  },
+  {
+    "id": 30,
+    "w": "damp",
+    "syn": "moist, slightly wet",
+    "uz": "nam, zax"
+  },
+  {
+    "id": 31,
+    "w": "Equator",
+    "syn": "equatorial line, zero-degree latitude",
+    "uz": "ekvator"
+  },
+  {
+    "id": 32,
+    "w": "dominant",
+    "syn": "main, prevailing",
+    "uz": "ustun, asosiy"
+  },
+  {
+    "id": 33,
+    "w": "habitat",
+    "syn": "natural home, living environment",
+    "uz": "tabiiy yashash muhiti"
+  },
+  {
+    "id": 34,
+    "w": "indigenous populations",
+    "syn": "native peoples, original inhabitants",
+    "uz": "tub, mahalliy aholi"
+  },
+  {
+    "id": 35,
+    "w": "consistent with",
+    "syn": "in agreement with, in line with",
+    "uz": "…ga mos, …bilan muvofiq"
+  },
+  {
+    "id": 36,
+    "w": "conservation",
+    "syn": "preservation, protection",
+    "uz": "tabiatni asrash, muhofaza qilish"
+  },
+  {
+    "id": 37,
+    "w": "sympathetic to",
+    "syn": "caring towards, concerned about",
+    "uz": "…ga hamdard, …ga mehr bilan qaraydigan"
+  },
+  {
+    "id": 38,
+    "w": "intrinsic value",
+    "syn": "inherent worth, value in itself",
+    "uz": "o'ziga xos, o'z-o'zicha mavjud qadr"
+  },
+  {
+    "id": 39,
+    "w": "identify",
+    "syn": "recognize, pinpoint",
+    "uz": "aniqlamoq, tanib olmoq"
+  },
+  {
+    "id": 40,
+    "w": "logging",
+    "syn": "tree felling, timber harvesting",
+    "uz": "yog'och uchun daraxt kesish"
+  },
+  {
+    "id": 41,
+    "w": "proportion",
+    "syn": "share, fraction",
+    "uz": "ulush, nisbat"
+  },
+  {
+    "id": 42,
+    "w": "acid rain",
+    "syn": "acidic rainfall, acid precipitation",
+    "uz": "kislotali yomg'ir"
+  },
+  {
+    "id": 43,
+    "w": "factor",
+    "syn": "cause, contributing element",
+    "uz": "omil"
+  },
+  {
+    "id": 44,
+    "w": "embrace",
+    "syn": "include, encompass",
+    "uz": "o'z ichiga olmoq, qamrab olmoq"
+  },
+  {
+    "id": 45,
+    "w": "atmospheric",
+    "syn": "related to the atmosphere, relating to the air",
+    "uz": "atmosferaga oid"
+  },
+  {
+    "id": 46,
+    "w": "incompatible with",
+    "syn": "inconsistent with, unable to coexist with",
+    "uz": "…bilan mos kelmaydigan"
+  },
+  {
+    "id": 47,
+    "w": "majority",
+    "syn": "most, greater part",
+    "uz": "ko'pchilik, katta qism"
+  },
+  {
+    "id": 48,
+    "w": "contribute to",
+    "syn": "help cause, play a part in",
+    "uz": "sabab bo'lishga hissa qo'shmoq"
+  },
+  {
+    "id": 49,
+    "w": "predominate",
+    "syn": "prevail, dominate",
+    "uz": "ustunlik qilmoq"
+  },
+  {
+    "id": 50,
+    "w": "ecosystem",
+    "syn": "ecological system, interacting community and environment",
+    "uz": "ekotizim"
+  },
+  {
+    "id": 51,
+    "w": "volunteer ideas",
+    "syn": "offer ideas freely, suggest without being asked",
+    "uz": "so'ralmasdan fikr bildirmoq"
+  },
+  {
+    "id": 52,
+    "w": "appreciate",
+    "syn": "recognize, understand fully",
+    "uz": "ahamiyatini anglamoq, to'liq tushunmoq"
+  },
+  {
+    "id": 53,
+    "w": "complexity",
+    "syn": "intricacy, complicated nature",
+    "uz": "murakkablik"
+  },
+  {
+    "id": 54,
+    "w": "a range of",
+    "syn": "a variety of, an assortment of",
+    "uz": "turli xil, bir qator"
+  },
+  {
+    "id": 55,
+    "w": "drive",
+    "syn": "cause, propel",
+    "uz": "sabab bo'lmoq, harakatga keltirmoq"
+  },
+  {
+    "id": 56,
+    "w": "acquire",
+    "syn": "gain, develop",
+    "uz": "egallamoq, orttirmoq"
+  },
+  {
+    "id": 57,
+    "w": "evaluate",
+    "syn": "assess, judge",
+    "uz": "baholamoq"
+  },
+  {
+    "id": 58,
+    "w": "conflicting views",
+    "syn": "opposing opinions, clashing viewpoints",
+    "uz": "bir-biriga zid qarashlar"
+  },
+  {
+    "id": 59,
+    "w": "arena",
+    "syn": "setting, sphere",
+    "uz": "faoliyat maydoni, muhit"
+  },
+  {
+    "id": 60,
+    "w": "essential",
+    "syn": "necessary, vital",
+    "uz": "zarur, juda muhim"
+  }
+]
